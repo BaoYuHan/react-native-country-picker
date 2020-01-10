@@ -1,0 +1,19 @@
+{
+  "name": "react-native-country-picker",
+  "version": "1.0.0",
+  "description": "react-native国家选择器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaoYuHan/react-native-country-picker.git"
+  },
+  "author": "bao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaoYuHan/react-native-country-picker/issues"
+  },
+  "homepage": "https://github.com/BaoYuHan/react-native-country-picker#readme"
+}
